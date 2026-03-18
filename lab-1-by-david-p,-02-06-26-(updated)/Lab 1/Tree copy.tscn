@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://dovv3mf450yk4"]
+
+[ext_resource type="Texture2D" uid="uid://bfby1j8q7bfau" path="res://Pictures/Realistic_Tree_PNG_Clip_Art-1104.png" id="1_nbyt5"]
+
+[node name="Tree" type="Node2D" unique_id=477997129]
+
+[node name="RealisticTreePngClipArt1104" type="Sprite2D" parent="." unique_id=559694507]
+position = Vector2(164.68747, 175.09375)
+scale = Vector2(0.15778156, 0.18244511)
+texture = ExtResource("1_nbyt5")
+
+[node name="RealisticTreePngClipArt1105" type="Sprite2D" parent="RealisticTreePngClipArt1104" unique_id=573200675]
+position = Vector2(4964.5386, 1287.5448)
+scale = Vector2(1.249012, 1.4020044)
+texture = ExtResource("1_nbyt5")
